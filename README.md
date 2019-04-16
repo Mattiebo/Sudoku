@@ -7,3 +7,5 @@ DOTween by Demigiant (http://dotween.demigiant.com/)
 Royalty-free images by Pixabay on pexels.com (https://www.pexels.com/@pixabay)
 
 Royalty-free sudokus puzzles by puzzles.ca (https://www.puzzles.ca/sudoku/)
+
+Font: Molot by Jovanny Lemonad (https://www.dafont.com/molot.font)
